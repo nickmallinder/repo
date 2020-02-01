@@ -1,6 +1,6 @@
 # Content that is being uploaded to Dropbox
 # Currently we only upload to the repo the assets in Content/Blueprints
-#Content/*
+Content/*
 #!Content/Blueprints/
 !Content/Blueprints/
 !Content/Levels/
@@ -82,5 +82,3 @@ call_generate_visual_studio_project\.bat
 
 tools/**/\.vs/
 tools/**/build/
-
-Content/*
